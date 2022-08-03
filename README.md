@@ -4,7 +4,7 @@ Esse projeto tem como objetivo introduzir o conceito de API. Foi construído um 
 
 ## Arquivos
 *   A pasta utils possui o classificador de palavras escrito em python e os requeriments em arquivo txt.
-*   O arquvio "app.py" é justamente nossa aplicação, escrita em python.
+*   O arquvio "app.py" é justamente a aplicação, escrita em python.
 
 ## Bibliotecas utilizadas
 * [NLTK](https://www.nltk.org/) 
